@@ -1,0 +1,8 @@
+{
+  "description": "Lipis' Prettier config",
+  "license": "MIT",
+  "main": "index.json",
+  "name": "@lipis/prettier-config",
+  "repository": "https://github.com/lipis/prettier-config",
+  "version": "1.0.0"
+}
