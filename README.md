@@ -7,7 +7,7 @@
 **Install**:
 
 ```bash
-yarn add --dev @lipis/prettier-config
+yarn add --dev lipis-prettier-config
 ```
 
 **Edit `package.json`**:
@@ -15,6 +15,6 @@ yarn add --dev @lipis/prettier-config
 ```jsonc
 {
   // ...
-  "prettier": "@lipis/prettier-config"
+  "prettier": "lipis-prettier-config"
 }
 ```
