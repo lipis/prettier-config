@@ -1,4 +1,4 @@
-# @lipis/prettier-config
+# lipis-prettier-config
 
 > Lipis' [Prettier](https://prettier.io) config.
 
